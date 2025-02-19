@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioBento - Eco-Friendly Tupperware</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f7ec;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            margin: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>BioBento - Sustainable Tupperware</header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#products">Products</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <h1>Welcome to BioBento</h1>
+        <p>Eco-friendly, biodegradable Tupperware for a sustainable future.</p>
+        <a href="#products" class="cta-button">Shop Now</a>
+    </div>
+    <footer>
+        &copy; 2025 BioBento | All rights reserved
+    </footer>
+</body>
+</html>
